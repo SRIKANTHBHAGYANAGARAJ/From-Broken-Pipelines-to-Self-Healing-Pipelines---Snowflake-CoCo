@@ -15,6 +15,9 @@ As part of the **Northstar - Getting Started with Cortex Code** workshop, I buil
 
 ![Before Agent SDK - 3 AM Alert](images/01_before_3am_alert.png)
 
+![Uploading Infographic comparing manual incident triage at 3_00 AM versus an autonomous agent's three-minute self-healing fix_.png…]()
+
+
 
 
 Every engineer's worst nightmare:
