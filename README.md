@@ -252,7 +252,7 @@ https://developerbadges.snowflake.com/c71fffc1-0027-4080-a495-4f746b0a4b26#acc.J
 
 ## 🖥️ **Git Commands to Update**
 
-```bash
+bash
 # Navigate to your repo
 cd build-with-coco
 
