@@ -1,3 +1,13 @@
+
+
+
+
+# build-with-coco
+
+A collection of reusable [Cortex Code](https://docs.snowflake.com/en/user-guide/cortex-code/cortex-code) skills and copy-paste prompts for automating data engineering workflows on Snowflake.
+
+<img width="400" height="400" alt="ce220d8e-270f-46ed-87e6-153da0e18661" src="https://github.com/user-attachments/assets/6e2b7f19-94e3-47ba-bf7c-6b01196fa46e" />
+
 <img width="2752" height="1536" alt="Infographic comparing manual incident triage at 3_00 AM versus an autonomous agent&#39;s three-minute self-healing fix_" src="https://github.com/user-attachments/assets/0e71c928-4b8f-478a-9614-1041456cd1e3" />
 [Autonomous_Incident_Resolution.pptx](https://github.com/user-attachments/files/30378180/Autonomous_Incident_Resolution.pptx)
 [Autonomous_Incident_Resolution.pdf](https://github.com/user-attachments/files/30378179/Autonomous_Incident_Resolution.pdf)
@@ -14,12 +24,6 @@ https://github.com/user-attachments/assets/980a39a7-c75e-4f7c-888b-15942fd042f4
 https://github.com/user-attachments/assets/cda659aa-d816-4f19-820b-130d79b83bfb
 
 
-
-# build-with-coco
-
-A collection of reusable [Cortex Code](https://docs.snowflake.com/en/user-guide/cortex-code/cortex-code) skills and copy-paste prompts for automating data engineering workflows on Snowflake.
-
-<img width="400" height="400" alt="ce220d8e-270f-46ed-87e6-153da0e18661" src="https://github.com/user-attachments/assets/6e2b7f19-94e3-47ba-bf7c-6b01196fa46e" />
 
 
 ---
