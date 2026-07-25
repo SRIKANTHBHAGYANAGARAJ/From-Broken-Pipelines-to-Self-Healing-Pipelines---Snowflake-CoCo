@@ -2,7 +2,8 @@
 
 A collection of reusable [Cortex Code](https://docs.snowflake.com/en/user-guide/cortex-code/cortex-code) skills and copy-paste prompts for automating data engineering workflows on Snowflake.
 
-![Cortex Code Badge](images/cortex-code-badge.png)
+<img width="400" height="400" alt="ce220d8e-270f-46ed-87e6-153da0e18661" src="https://github.com/user-attachments/assets/6e2b7f19-94e3-47ba-bf7c-6b01196fa46e" />
+
 
 ---
 
