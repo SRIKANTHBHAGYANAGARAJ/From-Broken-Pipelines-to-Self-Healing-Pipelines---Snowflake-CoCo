@@ -15,6 +15,8 @@ As part of the **Northstar - Getting Started with Cortex Code** workshop, I buil
 
 ![Before Agent SDK - 3 AM Alert](images/01_before_3am_alert.png)
 
+
+
 Every engineer's worst nightmare:
 - **3:04 AM** – Alert fires. Airflow marks task FAILED. PagerDuty wakes you up.
 - **3:11 AM** – Log archaeology begins. Open Airflow UI. Read raw logs.
