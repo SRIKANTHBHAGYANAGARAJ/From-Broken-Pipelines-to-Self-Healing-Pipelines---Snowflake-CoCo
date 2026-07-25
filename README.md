@@ -272,14 +272,5 @@ git commit -m "docs: Added Cortex Code Agent SDK images and updated README"
 # Push
 git push origin main
 
-📋 Files to Save in images/ Folder
 
-Filename	Source
-cortex-code-badge.png	Your Snowflake badge
-01_before_3am_alert.png	Screenshot 2026-07-25 213506.png
-02_before_manual_triage.png	Screenshot 2026-07-25 213516.png
-03_agent_sdk_code.png	Screenshot 2026-07-25 213532.png
-04_after_autonomous_flow.png	Screenshot 2026-07-25 213550.png
-05_agent_slack_output.png	Screenshot 2026-07-25 213615.png
-06_side_by_side_comparison.png	Screenshot 2026-07-25 213633.png OR 213656.png
 
